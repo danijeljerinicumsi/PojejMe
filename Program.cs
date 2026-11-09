@@ -2,6 +2,6 @@
 
 var app = builder.Build();
 
-app.MapGet("/", () => "New application update.");
+app.MapGet("/", () => "App update as of Mon Nov 9.");
 
 app.Run();

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PojejMe")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cd55b98e162043ddc5169d46252242b8fe1c3ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("PojejMe")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PojejMe")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
